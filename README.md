@@ -1,2 +1,2 @@
 # JavaScript
-Learn JavaScript by actual writing code
+Learn JavaScript by writing actual code
